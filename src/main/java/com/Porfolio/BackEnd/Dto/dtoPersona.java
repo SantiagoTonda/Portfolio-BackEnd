@@ -1,7 +1,7 @@
 package com.Porfolio.BackEnd.Dto;
 
 import javax.validation.constraints.NotBlank;
-    
+
 public class dtoPersona {
     @NotBlank
     private String nombre;
@@ -52,5 +52,5 @@ public class dtoPersona {
 
     public void setImg(String img) {
         this.img = img;
-    }
+    } 
 }
