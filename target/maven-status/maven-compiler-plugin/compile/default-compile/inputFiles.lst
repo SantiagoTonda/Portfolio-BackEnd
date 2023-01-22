@@ -9,6 +9,7 @@ D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Security\Entity\Rol.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Controller\PersonaController.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Dto\dtoPersona.java
+D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Repository\RProyectos.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Service\Shys.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Dto\dtoEducacion.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Security\Repository\iRolRepository.java
@@ -22,11 +23,15 @@ D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Entity\Experiencia.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Controller\CExperiencia.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Security\Controller\Mensaje.java
+D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Dto\dtoProyectos.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Security\Entity\Usuario.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\BackEndApplication.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Repository\RExperiencia.java
+D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Controller\CProyectos.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Dto\dtoHys.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Controller\CHys.java
+D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Service\SProyectos.java
+D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Entity\Proyectos.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Security\Service\UserDetailsImpl.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Repository\REducacion.java
 D:\Documentos\Programación\Argentina Programa\BackEnd\src\main\java\com\Porfolio\BackEnd\Security\Repository\iUsuarioRepository.java

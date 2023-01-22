@@ -15,9 +15,11 @@ com\Porfolio\BackEnd\Service\SExperiencia.class
 com\Porfolio\BackEnd\Security\Entity\UsuarioPrincipal.class
 com\Porfolio\BackEnd\Security\jwt\JwtTokenFilter.class
 com\Porfolio\BackEnd\Service\Seducacion.class
+com\Porfolio\BackEnd\Repository\RProyectos.class
 com\Porfolio\BackEnd\Controller\CEducacion.class
 com\Porfolio\BackEnd\Repository\IPersonaRepository.class
 com\Porfolio\BackEnd\BackEndApplication.class
+com\Porfolio\BackEnd\Dto\dtoProyectos.class
 com\Porfolio\BackEnd\Entity\Persona.class
 com\Porfolio\BackEnd\Controller\CHys.class
 com\Porfolio\BackEnd\Security\Entity\Usuario.class
@@ -28,12 +30,15 @@ com\Porfolio\BackEnd\Entity\hys.class
 com\Porfolio\BackEnd\Dto\dtoHys.class
 com\Porfolio\BackEnd\Security\MainSecurity.class
 com\Porfolio\BackEnd\Repository\RExperiencia.class
+com\Porfolio\BackEnd\Controller\CProyectos.class
 com\Porfolio\BackEnd\Security\Repository\iUsuarioRepository.class
 com\Porfolio\BackEnd\Dto\dtoEducacion.class
 com\Porfolio\BackEnd\Security\Entity\Rol.class
+com\Porfolio\BackEnd\Entity\Proyectos.class
 com\Porfolio\BackEnd\Security\Controller\AuthController.class
 com\Porfolio\BackEnd\Controller\CExperiencia.class
 com\Porfolio\BackEnd\Security\Dto\JwtDto.class
+com\Porfolio\BackEnd\Service\SProyectos.class
 com\Porfolio\BackEnd\Repository\Rhys.class
 com\Porfolio\BackEnd\Entity\Educacion.class
 com\Porfolio\BackEnd\Service\Shys.class
