@@ -49,7 +49,7 @@ public class PersonaController {
         }
         personaService.delete(id);
         return new ResponseEntity(new Mensaje("Educacion eliminada"), HttpStatus.OK);
-    }*/
+    }
     
     @PostMapping("/create")
     public ResponseEntity<?> create(@RequestBody dtoPersona dtopersona){
@@ -64,9 +64,9 @@ public class PersonaController {
                 dtopersona.getNombre(), dtopersona.getDescripcion(), dtopersona.getDescripcion(), dtopersona.getImg()
             );
         personaService.save(persona);
-        return new ResponseEntity(new Mensaje("Persona creada"), HttpStatus.OK);
+        return new ResponseEntity(new Mensaje("Persona creada"), HttpStatus.OK); 
                 
-    }
+    } */
     
     @PutMapping("/update/{id}")
     public ResponseEntity<?> update(@PathVariable("id") int id, @RequestBody dtoPersona dtopersona){
